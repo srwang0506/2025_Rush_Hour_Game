@@ -42,7 +42,7 @@ To ensure maximum stability, we **strongly recommend** creating a dedicated Pyth
 
    And you will find the `rushhour` environment and its path.
 
-## Package dependencies
+## Package Dependencies
 
 Pyqt5<br>
 Pyqt5-tools<br>
