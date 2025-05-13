@@ -1,4 +1,3 @@
-# Rush Hour Game
 # **2025 Rush Hour Game**
 
 The project was co-created by **Sirui Wang**, **Juntang Huang**, **Jing Qiu**, **Chenxi Shen** and **Yuhan Tian** and will be made publicly available in code soon. Thank you for your interest in this project.
@@ -76,7 +75,12 @@ Then right mouse button on DataMy to click **Queue tool** and enter the followin
 
 Successfully deploy associate database!😊
 
+## Software Demonstration
 
+A demonstration video of the software is available—click the link below to download and view it.
+[BaiduDisk](https://pan.baidu.com/s/1eLesSs-Q1exFacewd2RsXg)
+
+Access code: yux7
 
 ## Citation
 
